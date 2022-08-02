@@ -1,0 +1,267 @@
+.nav {
+    height: 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-links {
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-title {
+    text-align: left;
+    color: white;
+    padding-left: 15px;
+}
+
+.btn {
+    height: 35px;
+    width: 100px;
+    background-color: #32a7b9;
+    color: white;
+    font-size: 14px;
+    margin-left: 180px;
+}
+
+.container {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+.top {
+    width: 400px; 
+    height: 70px; 
+    background-color: #32a7b9;
+    border: 2px solid #32a7b9;
+    border-bottom: none;
+}
+
+.bottom {
+    width: 380px;
+    background-color: aliceblue;
+    border: 2px solid gray;
+    border-top: none;
+    padding-left: 20px;
+    padding-top: 35px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h2 {
+    margin-top: 15px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+img.gps {
+    margin-right: 10px;
+    height: 20px;
+}
+
+img.engranaje {
+    height: 20px;
+    margin-right: 10px;
+}
+
+img.foto {
+    border-radius: 50%;
+    background-color: white;
+    padding: 2px;
+    width: 70px;
+    height: 70px;
+    margin-top: 30px;
+    margin-left: 25px;
+    border: 2px solid gray;
+}
+
+.dos {
+    margin-bottom: 0px;
+}
+
+.tres {
+    margin-top: 0px;
+}
+.cuatro {
+    margin-top: 0px;
+}
+
+.education {
+    width: 390px; 
+    background-color: #393f3f;
+    border: 2px solid #393f3f;
+    font-family: 'Quicksand', sans-serif;
+    padding: 5px;
+}
+
+.educationbottom {
+    width: 390px;
+    background-color: aliceblue;
+    border: 2px solid gray;
+    border-top: none;
+    padding-left: 10px;
+    padding-top: 15px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.coding {
+    margin-top: 0px;
+}
+
+.connection {
+    margin-left: 20px;
+}
+
+.superior {
+    display: flex;
+    width: 290px; 
+    background-color: #393f3f;
+    border: 2px solid #393f3f;
+    border-bottom: none;
+    font-family: 'Quicksand', sans-serif;
+    padding: 5px;
+}
+
+.inferior1 {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    width: 290px;
+    background-color: aliceblue;
+    border: 2px solid gray;
+    border-top: none;
+    border-bottom: none;
+    padding-left: 10px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.inferior2 {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    width: 290px;
+    background-color: aliceblue;
+    border: 2px solid gray;
+    border-top: none;
+    padding-left: 10px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.inferior3 {
+    display: flex;
+    gap: 35px;
+    align-items: center;
+    width: 290px;
+    background-color: aliceblue;
+    border: 2px solid gray;
+    border-top: none;
+    border-bottom: none;
+    padding-left: 10px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.inferior4 {
+    display: flex;
+    gap: 35px;
+    align-items: center;
+    width: 290px;
+    background-color: aliceblue;
+    border: 2px solid gray;
+    border-top: none;
+    border-bottom: none;
+    padding-left: 10px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.inferior5 {
+    display: flex;
+    gap: 35px;
+    align-items: center;
+    width: 290px;
+    background-color: aliceblue;
+    border: 2px solid gray;
+    border-top: none;
+    border-bottom: none;
+    padding-left: 10px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.inferior6 {
+    display: flex;
+    gap: 35px;
+    align-items: center;
+    width: 290px;
+    background-color: aliceblue;
+    border: 2px solid gray;
+    border-top: none;
+    border-bottom: none;
+    padding-left: 10px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.inferior7 {
+    width: 290px;
+    background-color: aliceblue;
+    border: 2px solid gray;
+    padding-left: 10px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.cuatro {
+    color: white;
+    margin: 0px;
+    margin-top: 3px;
+    padding-left: 33px;
+}
+
+.edit {
+    color: white;
+    margin: 0px;
+    margin-top: 3px;
+    margin-bottom: 15px;
+}
+
+.numerodos {
+    width: 20%;
+    border-radius: 50%;
+    background-color: gray;
+    border-color: gray;
+    margin: 0%;
+    text-align: center;
+}
+
+.quinientos {
+    width: 20%;
+    border-radius: 50%;
+    background-color: gray;
+    border-color: gray;
+    margin: 0%;
+    padding-left: 10px;
+}
+
+.img1, .img2, .img3{
+    width: 35px;
+}
+
+.tod {
+    margin-right: 80px;
+}
+
+.phil {
+    margin-right: 88px;
+}
+
+.dec {
+    color: gray;
+}
